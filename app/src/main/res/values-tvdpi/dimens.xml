@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="big_padding">40dp</dimen>
+    <dimen name="little_padding">18dp</dimen>
+    <dimen name="text_size_row">24sp</dimen>
+    <dimen name="text_size_title_horizontal">26sp</dimen>
+    <dimen name="text_size_title_vertical">33sp</dimen>
+</resources>

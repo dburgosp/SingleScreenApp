@@ -1,0 +1,7 @@
+<resources>
+<dimen name="big_padding">18dp</dimen>
+<dimen name="little_padding">12dp</dimen>
+<dimen name="text_size_row">13.2sp</dimen>
+<dimen name="text_size_title_horizontal">14.4sp</dimen>
+<dimen name="text_size_title_vertical">18sp</dimen>
+</resources>

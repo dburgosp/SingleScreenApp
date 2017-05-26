@@ -1,0 +1,80 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTextViews">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingRight">@dimen/big_padding</item>
+        <item name="android:textSize">@dimen/text_size_row</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="MyImageViews">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingLeft">@dimen/big_padding</item>
+        <item name="android:paddingRight">@dimen/little_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MyRelativeLayouts">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">@dimen/little_padding</item>
+        <item name="android:paddingBottom">@dimen/little_padding</item>
+        <item name="android:background">@color/colorBackground</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="MainTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/big_padding</item>
+        <item name="android:paddingRight">@dimen/big_padding</item>
+        <item name="android:paddingTop">@dimen/little_padding</item>
+        <item name="android:paddingBottom">@dimen/little_padding</item>
+        <item name="android:textColor">@color/colorBackground</item>
+    </style>
+
+    <style name="Subtitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorBackground</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/big_padding</item>
+        <item name="android:paddingRight">@dimen/big_padding</item>
+        <item name="android:paddingTop">@dimen/little_padding</item>
+        <item name="android:paddingBottom">@dimen/medium_padding</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="Logo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:contentDescription">@string/logo_description</item>
+        <item name="android:padding">@dimen/little_padding</item>
+    </style>
+
+    <style name="MainImage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:contentDescription">@string/main_image_description</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="HorizontalBlackLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@android:color/black</item>
+    </style>
+
+</resources>

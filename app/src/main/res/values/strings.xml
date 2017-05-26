@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="main_title">"Minerva Peyús&#8211;Intelligent Beauty"</string>
+    <string name="description">"Aesthetic Center"</string>
+    <string name="address">"Ctra. de Canillas 17 &#8211; 28043 Madrid, ES"</string>
+    <string name="timetable">"Monday&#8211;Friday: 10.00 am&#8211;5.30 pm"</string>
+    <string name="phone">"(+34) 673 277 115 / (+34) 911 104 715"</string>
+    <string name="web">"http://minervapeyus.com"</string>
+
+    <string name="icon1_description">"Address"</string>
+    <string name="icon2_description">"Url"</string>
+    <string name="icon3_description">"Phone number"</string>
+    <string name="icon4_description">"Timetable"</string>
+    <string name="logo_description">"Logo"</string>
+    <string name="main_image_description">"Main image"</string>
+</resources>
