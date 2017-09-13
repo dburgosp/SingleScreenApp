@@ -8,9 +8,9 @@ Design and implement a single screen app that displays information about a ficti
 
 I have dedicated this app to my friend's business, [Minerva Peyús Intelligent Beauty](http://minervapeyus.com/).
 
-![Landscape orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/portrait-img.jpg?raw=true)
+![Portrait orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/portrait-img.jpg?raw=true)
 
-![Portrait orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/landscape-img.jpg?raw=true)
+![Landscape orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/landscape-img.jpg?raw=true)
 
 ## Content Review
 **Design includes all specified business criteria**. Design must include:
