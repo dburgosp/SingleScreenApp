@@ -8,9 +8,9 @@ Design and implement a single screen app that displays information about a ficti
 
 I have dedicated this app to my friend's business, [Minerva Peyús Intelligent Beauty](http://minervapeyus.com/).
 
-![Landscape orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/Imagen1.jpg?raw=true)
+![Landscape orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/portrait-img.jpg?raw=true)
 
-![Portrait orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/Imagen3.jpg?raw=true)
+![Portrait orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/landscape-img.jpg?raw=true)
 
 ## Content Review
 **Design includes all specified business criteria**. Design must include:
@@ -33,6 +33,6 @@ I have dedicated this app to my friend's business, [Minerva Peyús Intelligent B
 3. **Elements and Text on screen are in appropriate units**. Elements are specified in dp, text is specified in sp.
 
 ## Notes
-* I have used different dimens.xml files for mdpi (by default), hdpi, xhdpi, xxhdpi, xxxhdpi and tvdpi. 
-* For the different sizes, I tried to use the [Dimenify](https://plugins.jetbrains.com/plugin/9349-dimenify) plugin for Android Studio, which automatically should have created every dimens.xml for every density, but it didn't work fine for me, so I fixed all the values manually later.
-* I have also created a second layout for the landscape orientation.
+1. I have used different dimens.xml files for mdpi (by default), hdpi, xhdpi, xxhdpi, xxxhdpi and tvdpi. 
+2. For the different sizes, I tried to use the [Dimenify](https://plugins.jetbrains.com/plugin/9349-dimenify) plugin for Android Studio, which automatically should have created every dimens.xml for every density, but it didn't work fine for me, so I fixed all the values manually later.
+3. I have also created a second layout for the landscape orientation.
