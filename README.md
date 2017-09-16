@@ -2,15 +2,13 @@
 
 This is a very, very simple Android Studio project for the [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) by Udacity and Google.
 
-## Project Overview
-
-Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
-
-I have dedicated this app to my friend's business, [Minerva Peyús Intelligent Beauty](http://minervapeyus.com/).
+The goal was to design and implement a single screen app that displays information about a fictional small business (our favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records). I have dedicated this app to my friend's business, [Minerva Peyús Intelligent Beauty](http://minervapeyus.com/).
 
 ![Portrait orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/portrait-img.jpg?raw=true)
 
 ![Landscape orientation](https://github.com/dburgosp/SingleScreenApp/blob/master/landscape-img.jpg?raw=true)
+
+# Project Specifications
 
 ## Content Review
 **Design includes all specified business criteria**. Design must include:
